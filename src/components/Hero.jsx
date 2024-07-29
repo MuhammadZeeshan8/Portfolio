@@ -7,7 +7,7 @@ const scrollToContact = () => {
 };
 
 const linkToResume = () => {
-  window.location.href = 'linkedin.com/in/muhammad-zeeshan-a7996324b';
+  window.location.href = 'https://drive.google.com/drive/folders/1W8LAmMJPPFGK6O8lIwUGSgv3xQpGTpk6?usp=sharing';
 };
 
 function Hero() {
