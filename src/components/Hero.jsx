@@ -7,7 +7,7 @@ const scrollToContact = () => {
 };
 
 const linkToResume = () => {
-  window.location.href = 'https://drive.google.com/drive/folders/1W8LAmMJPPFGK6O8lIwUGSgv3xQpGTpk6?usp=sharing';
+  window.location.href = 'https://drive.google.com/file/d/1pO27gs9V-XgucF7Nve1CTG0wZlmvmsZw/view?usp=drive_link';
 };
 
 function Hero() {
